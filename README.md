@@ -2,6 +2,8 @@
 ### 📃la page de profil est encore en construction🏗️
 ### 🤔The page is still under construction🔨
 
+#
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupnis&layout=compact&langs_count=16&hide_title=true">
 
 ![g1](https://github.com/images/mona-whisper.gif)
 ![g2](https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif)
