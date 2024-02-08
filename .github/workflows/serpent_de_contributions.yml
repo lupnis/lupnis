@@ -27,4 +27,3 @@ jobs:
         with:
           add: src
           message: mettre à jour le serpent des contributions ;P
-3
