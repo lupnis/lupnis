@@ -26,7 +26,7 @@ jobs:
 
       - uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.DEPENDABOT_TOKEN }}
           branch: master
           force: true
           
