@@ -24,16 +24,7 @@ jobs:
             src/github-serpent-de-contributions.svg
             src/github-serpent-de-contributions-sombre.svg?palette=github-dark
 
-      - uses: ad-m/github-push-action@master
+      - uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.DEPENDABOT_TOKEN }}
-          branch: master
-          force: true
-          
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: update
-          build_dir: src
-          commit_message: mettre à jour le serpent des contributions ;P
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          add: src
+          message: mettre à jour le serpent des contributions ;P
