@@ -15,6 +15,7 @@ jobs:
         with:
           persist-credentials: true
           fetch-depth: 0
+          ref: master
 
       - uses: Platane/snk@v3
         id: snake-gif
