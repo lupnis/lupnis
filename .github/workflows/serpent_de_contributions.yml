@@ -16,7 +16,7 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
 
-      - uses: Platane/snk@master
+      - uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,6 +24,12 @@ jobs:
             src/github-serpent-de-contributions.svg
             src/github-serpent-de-contributions-sombre.svg?palette=github-dark
 
+      - uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+          
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: update
