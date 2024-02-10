@@ -2,7 +2,7 @@ name: générer l'image du "serpent des contributions"
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
