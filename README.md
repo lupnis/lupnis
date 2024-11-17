@@ -1,5 +1,3 @@
-<h1 align="center">uwu u3u uvu o3o ouo oqo</h1>
-
 <h3 align="center">🗃️ Bio 🆔</h3>
 
 <h3 align="center"> Hi, I'm lupnis, currently a postgraduate majoring in CS.</h3>
@@ -7,13 +5,14 @@
 #### <strong>Research Directions:</strong>
 
 <img src="https://img.shields.io/badge/Large%20Language%20Models-aa55cc?style=for-the-badge&logo=openai&logoColor=white"/><span> </span>
-<img src="https://img.shields.io/badge/Recommendation%20Systems-22aa55?style=for-the-badge&logo=googleads&logoColor=white"/>
+<img src="https://img.shields.io/badge/PEFT-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/><span> </span>
+<img src="https://img.shields.io/badge/Agents-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/><span> </span>
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/><span> </span>
+<img src="https://img.shields.io/badge/RAG-00a1ea?style=for-the-badge&logo=milvus&logoColor=white"/><span> </span>
 
 #### <strong>Fields of Interest:</strong>
 
 <img src="https://img.shields.io/badge/Computer%20Vision-bb2255?style=for-the-badge&logo=opencv&logoColor=white"/><span> </span>
-<img src="https://img.shields.io/badge/Computational%20Fluid%20Dynamics-88aa33?style=for-the-badge&logo=ansys&logoColor=white"/><span> </span>
-<img src="https://img.shields.io/badge/Database-bb5500?style=for-the-badge&logo=redis&logoColor=white"/><span> </span>
 <img src="https://img.shields.io/badge/High%20Performance%20Computing-555555?style=for-the-badge&logo=nvidia&logoColor=white"/><span> </span>
 <img src="https://img.shields.io/badge/Hardware-0066aa?style=for-the-badge&logo=opensourcehardware&logoColor=white"/>
 
